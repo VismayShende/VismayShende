@@ -11,3 +11,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VismayShende&" alt="VismayShende" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VismayShende&show_icons=true&locale=en&layout=compact" alt="VismayShende" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VismayShende" alt="VismayShende" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
